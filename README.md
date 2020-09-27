@@ -1,9 +1,9 @@
 ### Hi there 👋
  🌱 I’m currently learning Data Science and Data Analysis.</br>
- 📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ or by mail : cecile.gltslmcs@gmail.com </br>.
- 😄 Pronouns: She/Her
- 🔭 Position: Capacity Planner (and Data Analyst volunteer)
- 💬 Ask me about collaboration or advices
+ 📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ or by mail : cecile.gltslmcs@gmail.com </br>
+ 😄 Pronouns: She/Her </br>
+ 🔭 Position: Capacity Planner (and Data Analyst volunteer) </br>
+ 💬 Ask me about collaboration or advices </br>
  
  
 <!--
