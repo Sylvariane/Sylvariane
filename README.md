@@ -1,8 +1,8 @@
-### Hi there 👋
- 🌱 I’m currently learning Data Science.</br>
+### Hello there 👋
+ 🌱 I’m currently learning Machine Learning.</br>
  📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ or by mail : cecile.gltslmcs@gmail.com </br>
  😄 Pronouns: She/Her </br>
- 🔭 Position: Railway capacity analyst (and Data Scientist volunteer) </br>
+ 🔭 Position: Railway capacity analyst (and Data Analyst) </br>
  💬 Ask me about collaboration or advices </br>
  
  
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+
 -->
