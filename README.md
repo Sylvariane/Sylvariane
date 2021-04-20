@@ -1,6 +1,6 @@
 ### Hello there 👋
  🌱 I’m currently learning Machine Learning.</br>
- 📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ or by mail : cecile.gltslmcs@gmail.com </br>
+ 📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ </br>
  😄 Pronouns: She/Her </br>
  🔭 Position: Railway capacity analyst (and Data Analyst) </br>
  💬 Ask me about collaboration or advices </br>
