@@ -1,5 +1,5 @@
 ### Hello there 👋
- 🌱 I’m currently learning Machine Learning.</br>
+ 🌱 I’m currently learning Data Science & Machine Learning.</br>
  📫 How to reach me: https://www.linkedin.com/in/cecile-gltslmcs/ </br>
  😄 Pronouns: She/Her </br>
  🔭 Position: Railway capacity analyst (and Data Analyst) </br>
