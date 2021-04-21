@@ -84,7 +84,7 @@ Les compétences acquises lors de ce projet sont :
 Ce projet est un petit projet personnel où j'ai essayé d'utiliser mes compétences en nettoyage de données sur un jeu de données open-source. Le jeu de données utilisé a été téléchargé à partir du site : www.data.gouv.fr. Il contient la liste des oeuvres les plus empruntés dans les bibliothèques parisiennes au cours de l'année 2017.
 Le notebook contient le script de nettoyage crée pour ce jeu de données avec la procédure pour tenter de compléter certaines données manquantes. A la fin de ce script, un fichier .csv est généré. Ce fichier pourra être utilisé pour des analyses descriptives et d'autres tests statistiques.
 
-[PObjets perdus/Objets trouvés](https://github.com/Sylvariane/objets_trouves_sncf)
+[Objets perdus/Objets trouvés](https://github.com/Sylvariane/objets_trouves_sncf)
 
 Projet personnel réalisé grâce à un jeu de données trouvé sur le site : [ressource.data.sncf](https://ressources.data.sncf.com/explore/?sort=modified). 
 Le but est d'utiliser les compétences de nettoyage de données et de data wrangling. La partie sur la Data Visualisation a été réalisé sous Tableau. 
