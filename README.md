@@ -101,4 +101,8 @@ Ce projet est un projet personnel. Il allie analyse de données avec une partie 
 Ce projet est un projet personnel qui consiste en l'analyse des données de l'étude coviprev. Cette étude a été réalisée par Santé Publique France depuis le 23 mars et continue encore. Elle a pour but d'évaluer la santé mentale des français au cours des différents évènements qui ont lieu depuis la pandémie de Covid19.
 {En cours...}
 
+## Projet participatif
 
+[Indice de fragilité numérique](https://github.com/Sylvariane/batch8_mednum)
+
+Participation bénévole à un projet de data science pour l'association Data For Good
