@@ -71,14 +71,20 @@ Les compétences acquises lors de ce projet sont :
 - Maîtriser les modèles ARMA
 - Représenter graphiquement une série temporelle
 
+[Projet 7 : Communiquez vos résultats](https://github.com/Sylvariane/acces_education)
+
+Les compétences acquises lors de ce projet sont : 
+- Communiquer ses résultats à l'aide de visualisation
+- Rédiger un rapport d'analyse statistique
+
 ## Projets personnels
 
-[Projet 1 : Emprunts des bibliothèques parisiennes](https://github.com/Sylvariane/Nettoyage-emprunt-bibliotheque)
+[Emprunts des bibliothèques parisiennes](https://github.com/Sylvariane/Nettoyage-emprunt-bibliotheque)
 
 Ce projet est un petit projet personnel où j'ai essayé d'utiliser mes compétences en nettoyage de données sur un jeu de données open-source. Le jeu de données utilisé a été téléchargé à partir du site : www.data.gouv.fr. Il contient la liste des oeuvres les plus empruntés dans les bibliothèques parisiennes au cours de l'année 2017.
 Le notebook contient le script de nettoyage crée pour ce jeu de données avec la procédure pour tenter de compléter certaines données manquantes. A la fin de ce script, un fichier .csv est généré. Ce fichier pourra être utilisé pour des analyses descriptives et d'autres tests statistiques.
 
-[Projet 2 : Objets perdus/Objets trouvés](https://github.com/Sylvariane/objets_trouves_sncf)
+[PObjets perdus/Objets trouvés](https://github.com/Sylvariane/objets_trouves_sncf)
 
 Projet personnel réalisé grâce à un jeu de données trouvé sur le site : [ressource.data.sncf](https://ressources.data.sncf.com/explore/?sort=modified). 
 Le but est d'utiliser les compétences de nettoyage de données et de data wrangling. La partie sur la Data Visualisation a été réalisé sous Tableau. 
@@ -86,8 +92,13 @@ Le Dashboard est disponible sur [Tableau Public](https://public.tableau.com/prof
 
 Pour plus de compréhension, les explications des différentes étapes sont écrites dans le notebook. 
 
-[Projet 3 : Prédictions des crises cardiaques](https://github.com/Sylvariane/Prediction_crise_cardiaque)
+[Prédictions des crises cardiaques](https://github.com/Sylvariane/Prediction_crise_cardiaque)
 
 Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données. Ce projet a mis en avant que la **méthode de modélisation le plus apte à prédire les décès est le modèle de la forêt aléatoire (Random Forest)**. Les variables *'fraction d'éjection'* et *'taux de créatinine'* sont les *deux variables les plus prédictives* dans nos différents modèles. 
+
+[Analyse de résultats de l'étude coviprev](https://github.com/Sylvariane/analyse-coviprev)
+
+Ce projet est un projet personnel qui consiste en l'analyse des données de l'étude coviprev. Cette étude a été réalisée par Santé Publique France depuis le 23 mars et continue encore. Elle a pour but d'évaluer la santé mentale des français au cours des différents évènements qui ont lieu depuis la pandémie de Covid19.
+{En cours...}
 
 
