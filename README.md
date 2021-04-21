@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-# Portfolio de Cécile
+# Mes travaux
 
 ## Projets réalisés dans le cadre de la formation Data Analyst (OpenClassRooms)
 
