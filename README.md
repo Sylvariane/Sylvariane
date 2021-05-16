@@ -96,7 +96,7 @@ Pour plus de compréhension, les explications des différentes étapes sont écr
 
 Ce projet est un projet personnel. Il allie analyse de données avec une partie de nettoyage, une analyse descriptive et une partie modélisation avec le test de trois modèles de classification sur le jeu de données. Ce projet a mis en avant que la **méthode de modélisation le plus apte à prédire les décès est le modèle de la forêt aléatoire (Random Forest)**. Les variables *'fraction d'éjection'* et *'taux de créatinine'* sont les *deux variables les plus prédictives* dans nos différents modèles. 
 
-[Analyse de résultats de l'étude coviprev](https://github.com/Sylvariane/analyse-coviprev)
+[Analyse des résultats de l'étude coviprev](https://github.com/Sylvariane/analyse-coviprev)
 
 Ce projet est un projet personnel qui consiste en l'analyse des données de l'étude coviprev. Cette étude a été réalisée par Santé Publique France depuis le 23 mars et continue encore. Elle a pour but d'évaluer la santé mentale des français au cours des différents évènements qui ont lieu depuis la pandémie de Covid19.
 {En cours...}
