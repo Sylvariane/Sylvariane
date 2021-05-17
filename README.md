@@ -98,11 +98,15 @@ Ce projet est un projet personnel. Il allie analyse de données avec une partie 
 
 [Analyse des résultats de l'étude coviprev](https://github.com/Sylvariane/analyse-coviprev)
 
-Ce projet est un projet personnel qui consiste en l'analyse des données de l'étude coviprev. Cette étude a été réalisée par Santé Publique France depuis le 23 mars et continue encore. Elle a pour but d'évaluer la santé mentale des français au cours des différents évènements qui ont lieu depuis la pandémie de Covid19.
-{En cours...}
+Ce projet est un projet personnel qui consiste en l'analyse des données de l'étude coviprev. Cette étude a été réalisée par Santé Publique France depuis le 23 mars 2020 et continue encore. Elle a pour but d'évaluer la santé mentale des français au cours des différents évènements qui ont lieu depuis la pandémie de Covid19.
+
+[Cartographie des établissements de santé sur l'île de la Réunion](https://github.com/Sylvariane/Dashboard_sante_reunion)
+
+{En cours}<br>
+Ce projet est un projet personnel qui cherche à cartographier les établissements de santé présents sur l'île de la Réunion. Par la suite, une cartographie des professionnels de santé sera mise en place. Les données proviennent du site des données opensource de la [région Réunion](https://data.regionreunion.com/explore/?disjunctive.theme&disjunctive.modified&disjunctive.publisher&sort=modified)
 
 ## Projet participatif
 
 [Indice de fragilité numérique](https://github.com/Sylvariane/batch8_mednum)
 
-Participation bénévole à un projet de data science pour l'association Data For Good
+Participation bénévole à un projet de data science pour l'association Data For Good (saison 8 de septembre à décembre 2020)
