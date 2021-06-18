@@ -77,6 +77,10 @@ Les compétences acquises lors de ce projet sont :
 - Communiquer ses résultats à l'aide de visualisation
 - Rédiger un rapport d'analyse statistique
 
+## Projets réalisés dans le cadre de la formation Ingénieur Machine Learning (OpenClassRooms)
+
+Projet 1 : Concevez une application au service de la santé publique
+
 ## Projets personnels
 
 [Emprunts des bibliothèques parisiennes](https://github.com/Sylvariane/Nettoyage-emprunt-bibliotheque)
