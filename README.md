@@ -79,7 +79,14 @@ Les compétences acquises lors de ce projet sont :
 
 ## Projets réalisés dans le cadre de la formation Ingénieur Machine Learning (OpenClassRooms)
 
-Projet 1 : Concevez une application au service de la santé publique
+[Projet 1 : Concevez une application au service de la santé publique](https://github.com/Sylvariane/Concevez_une_app_au_service_de_la_sante_publique)
+
+Les compétences acquises lors de ce projet sont :
+- Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
+- Effectuer des opérations de nettoyage sur des données structurées
+- Effectuer une analyse statistique multivariée
+- Effectuer une analyse statistique univariée
+Cependant, un algorithme de classification a été mis en place et un modèle est prêt à être déployé.
 
 ## Projets personnels
 
