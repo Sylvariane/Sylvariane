@@ -88,6 +88,14 @@ Les compétences acquises lors de ce projet sont :
 - Effectuer une analyse statistique univariée
 Cependant, un algorithme de classification a été mis en place et un modèle est prêt à être déployé.
 
+Projet 2 : Anticipez les besoins en consommation électrique de bâtiments (en cours de réalisation)
+
+Les compétences acquises lors de ce projet sont :
+- Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- Évaluer les performances d’un modèle d'apprentissage supervisé
+- Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
+- Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+
 ## Projets personnels
 
 [Emprunts des bibliothèques parisiennes](https://github.com/Sylvariane/Nettoyage-emprunt-bibliotheque)
